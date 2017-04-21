@@ -11,6 +11,9 @@
 body{
 	
 }
+alert{
+ background-color:rgba(253,240,213,0.2);
+}
 .banner{ 
 	margin-top: -20px; 
 	min-height: 100vh;

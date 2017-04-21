@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Marvel');
+@import url('https://fonts.googleapis.com/css?family=Wire+One');
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+
+
+
+body{
+	
+}
+.banner{ 
+	margin-top: -20px; 
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-size: cover;/*posicionando a imagem com 100% da tela*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -ms-background-size:cover;
+  -o-background-size:cover;
+	background-image: url('../img/notebook-person-man-laptops.jpg'); 
+}
+.menu{
+	font-family: 'Marvel', sans-serif;
+}
+#btncad{
+	margin-top: 10px;
+
+}
+#btnlog{
+	margin-top: 10px;
+	margin-left: 3px;
+	
+}
+.text_banner p{
+	color: #fff;
+	font-family: 'Marvel', sans-serif;
+	font-size: 20px;
+	margin-top: 30px;
+}
+.text_banner h1{
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	margin-top: 30px;
+	color: #fff;
+	text-shadow: 1px 1px 1px #000000;
+}
+.modal-body{
+	background-color: #A4F0E9;
+	border: none;
+}
+.container h2:hover{
+	background-color: rgba(50, 95, 162, 0.7);
+}
+
+.btn_ensino{
+	text-shadow: 1px 1px 1px #fff;
+	border: solid #fff;
+	padding: 10px;
+	color: #000000;
+	background-color: rgba(152, 224, 207,0.4);
+}
+.jumbotron{
+	background-color: #FAD267;
+}
+.panel-body{
+	background-color: #FAD267;
+}
+#cor1{
+	height: 500px;
+	background-color: #F9C22E;
+}
+#cor1 h3{
+	margin-top: 5px;
+	font-family: 'Anton', sans-serif;
+}
+#cor1 p{
+	font-family: 'Marvel', sans-serif;
+	font-size: 20px;
+	
+}
+
+#cor2{
+	height: 500px;
+	background-color: #FAD267;
+}
+#cor2 h3{
+	margin-top: 5px;
+	font-family: 'Anton', sans-serif;
+}
+#cor2 p,h4,h5{
+	font-family: 'Marvel', sans-serif;
+	font-size: 20px;
+	
+}
+.valor{
+ 
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-size: cover;/*posicionando a imagem com 100% da tela*/
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -ms-background-size:cover;
+  -o-background-size:cover;
+	background-image: url('../img/estudante.jpg'); 
+
+}
+.valor h1{
+	font-family: 'Poppins', sans-serif;
+    color: #325FA2;
+    text-shadow: 1px 1px 2px #fff;
+    margin-top: 30px;
+}
+.formas{
+	margin-top: 180px;
+}
+.formas h2{
+	font-family: 'Anton', sans-serif;
+	font-size: 40px;
+	color: ;
+}
+.formas p{
+	font-family: 'Wire One', sans-serif;
+    font-size: 50px;
+    text-shadow: 1px 1px 1px #000000;
+    color:#fff;
+}
+.formas a{
+	text-decoration: none;
+	transition: 1.0s
+}
+.formas a:hover{
+	padding: 20px;
+	border: #fff solid;
+	background-color: rgba(152, 224, 207,0.4);
+}
+.footer{
+	height: auto;
+	background-color: #325FA2;
+}
+.footer h3{
+	color: #fff;
+	font-family: 'Anton', sans-serif;
+	background-color: rgba(152, 224, 207,0.4);
+	padding: 10px;
+	text-shadow: 1px 1px 1px #002642;
+}
+.footer li,p{
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	font-size: 14px;
+	padding-left: 10px;
+}
+.footer li{
+	list-style: none;
+}
+.footer a{
+	text-decoration: none;
+	color: #fff;
+	font-size: 15px;
+	transition: 0.5s;
+}
+.footer a:hover{
+	text-decoration: none;
+	color: #000000;
+	background-color: #fff;
+	padding: 10px; 
+	font-size: 15px;
+}

@@ -48,6 +48,22 @@ body{
 	color: #fff;
 	text-shadow: 1px 1px 1px #000000;
 }
+.form-signin input,option{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size:17px;
+	color:#000000;
+	transition: 0.3s;
+}
+.form-signin input:hover{
+	background-color:#A1B6D4;
+	color:#fff;
+}
+.curso{
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size:17px;
+	color:#000000;
+	text-shadow:1px 1px 1px #fff;
+}
 .modal-body{
 	background-color: #A4F0E9;
 	border: none;
